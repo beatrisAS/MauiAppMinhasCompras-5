@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 ![License](https://img.shields.io/badge/Licença-MIT-blue)
 
-**Repositório do aplicativo de controle de compras** desenvolvido para a **Agenda 5** da disciplina *Desenvolvimento de Sistemas III* do curso Técnico em Desenvolvimento de Sistemas.
+**Repositório do aplicativo de controle de compras** desenvolvido para a **Agenda 6** da disciplina *Desenvolvimento de Sistemas III* do curso Técnico em Desenvolvimento de Sistemas.
 
 Aplicativo para **cadastro e visualização de produtos**, permitindo registrar nome, quantidade, preço, com listagem organizada, seleção de categoria e design moderno.
 

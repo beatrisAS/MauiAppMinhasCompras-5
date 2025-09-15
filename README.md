@@ -91,7 +91,7 @@ MauiAppMinhasCompras/
 2. **Clone o repositório**:
 
    ```bash
-   git clone https://github.com/seuusuario/MauiAppMinhasCompras.git
+   git clone https://github.com/beatrisAS/MauiAppTempoAgora.git
    ```
 
 3. **Restaure os pacotes e execute o projeto**:
